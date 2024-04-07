@@ -1,0 +1,19 @@
+.no-margin{
+    margin: 0;
+}
+
+.font-big{
+    font-size: 1.5rem;
+}
+
+.bg-light{
+    background-color: rgb(220,220,220);
+}
+
+.color-primary{
+    color:rgb(24, 24, 104);
+}
+
+.inline{
+    display: inline;
+}
